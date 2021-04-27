@@ -1,0 +1,7 @@
+inicio= index.html
+pizzas categorias (categorias/categoriaspizzas.html)
+    Premium.html
+    Vegetarianas.html
+    Sabores del Mundo.htm
+imagenes(/img)
+contacto.html
